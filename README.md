@@ -8,4 +8,4 @@ Bulirsch-Stoer instability in ORSA visualised with Java Plotly.
 
 These files may be used in conjunction with e.g., Eclipse.
 
-Reference: Stenborg, TN, "[Bulirsch-Stoer Instability in ORSA with Java Plotly Visualisation](https://aspbooks.org/custom/publications/paper/535-0459.html)", in BV Hugo, R Van Rooyen and OM Smirnov (eds), ADASS XXXI, ASP, Orem, UT, pp. 461–464.
+Reference: Stenborg, TN 2024, "[Bulirsch-Stoer Instability in ORSA with Java Plotly Visualisation](https://aspbooks.org/custom/publications/paper/535-0459.html)", in BV Hugo, R Van Rooyen and OM Smirnov (eds), ADASS XXXI, ASP, Orem, UT, pp. 461&ndash;464.
